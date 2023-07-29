@@ -12,7 +12,6 @@ https://ipecho.net/plain
 https://ipinfo.io/ip
 https://myexternalip.com/raw
 https://sre.monster/
-https://tnx.nl/ip
 https://trackip.net/ip
 https://wtfismyip.com/text
 
