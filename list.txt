@@ -1,5 +1,6 @@
 https://am.i.mullvad.net/ip
 https://api.ipify.org
+https://api.seeip.org
 https://checkip.amazonaws.com
 https://checkipv4.dedyn.io/
 https://icanhazip.com
@@ -8,11 +9,14 @@ https://ifconfig.co/ip
 https://ifconfig.io/ip
 https://ifconfig.me/ip
 https://ip.anoxinon.de
+https://ipapi.co/ip/
 https://ipcalf.com/?format=text
 https://ipecho.net/plain
 https://ipinfo.io/ip
+https://ip.tyk.nu/
+https://l2.io/ip
 https://myexternalip.com/raw
 https://sre.monster/
-https://tnx.nl/ip
 https://trackip.net/ip
+https://wgetip.com/
 https://wtfismyip.com/text
