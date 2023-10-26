@@ -1,6 +1,7 @@
 https://am.i.mullvad.net/ip
 https://api.ipify.org
 https://checkip.amazonaws.com
+https://checkipv4.dedyn.io/
 https://icanhazip.com
 https://ident.me/
 https://ifconfig.co/ip
@@ -15,4 +16,3 @@ https://sre.monster/
 https://tnx.nl/ip
 https://trackip.net/ip
 https://wtfismyip.com/text
-
