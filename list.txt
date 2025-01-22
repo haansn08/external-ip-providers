@@ -1,5 +1,5 @@
 https://am.i.mullvad.net/ip
-https://api.ip2location.io/
+https://ip2location.io/ip
 https://api.ipify.org
 https://api.seeip.org
 https://checkip.amazonaws.com
