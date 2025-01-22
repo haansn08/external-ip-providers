@@ -13,7 +13,6 @@ https://ip.anoxinon.de
 https://ipapi.co/ip/
 https://ipcalf.com/?format=text
 https://ipecho.net/plain
-https://ipinfo.io/ip
 https://ip.tyk.nu/
 https://l2.io/ip
 https://myexternalip.com/raw
