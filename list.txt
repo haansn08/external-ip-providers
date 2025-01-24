@@ -1,5 +1,4 @@
 https://am.i.mullvad.net/ip
-https://ip2location.io/ip
 https://api.ipify.org
 https://api.seeip.org
 https://checkip.amazonaws.com
@@ -9,10 +8,13 @@ https://ident.me/
 https://ifconfig.co/ip
 https://ifconfig.io/ip
 https://ifconfig.me/ip
+https://ip2location.io/ip
 https://ip.anoxinon.de
 https://ipapi.co/ip/
 https://ipcalf.com/?format=text
 https://ipecho.net/plain
+https://ipinfo.io/ip
+https://ip.mdosch.de/
 https://ip.tyk.nu/
 https://l2.io/ip
 https://myexternalip.com/raw
